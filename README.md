@@ -32,5 +32,5 @@ main.py
 
 Then enter the stock name and quantity when prompted.
 
-Fateme Heydari
+## Fateme Heydari
 Computer Engineering Student | Python learner
